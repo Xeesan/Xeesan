@@ -19,5 +19,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ziauddinzisan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ziauddinzisan" /></a></p><br><br>
 
-![Xeesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeesan&show_icons=true&theme=radical)
+![Xeesan's GitHub stats] align="center" (https://github-readme-stats.vercel.app/api?username=Xeesan&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xeesan&" alt="Xeesan" /></p>
