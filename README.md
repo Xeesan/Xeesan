@@ -1,4 +1,3 @@
-![Xeesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeesan&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Zia Uddin Zisan</h1>
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
@@ -20,6 +19,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ziauddinzisan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ziauddinzisan" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xeesan&show_icons=true&locale=en" alt="Xeesan" /></p>
-
+![Xeesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeesan&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xeesan&" alt="Xeesan" /></p>
