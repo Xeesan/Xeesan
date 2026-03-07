@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm an Embedded Network Engineer at **Mux Technologies Ltd**, where I manage network infrastructure, handle remote support, and keep things running smoothly. On the side, I maintain a forked build of **Paranoid Android (AOSPA)** — cherry-picking commits, merging upstream, and building custom ROMs for POCO devices across 33+ repositories.
+As an Embedded Network Engineer, where I manage network infrastructure, handle remote support, and keep things running smoothly. On the side, I maintain a forked build of **Paranoid Android (AOSPA)** — cherry-picking commits, merging upstream, and building custom ROMs for POCO devices across 33+ repositories.
 
 Currently pursuing my **BSc in Computer Science & Engineering** at University of Creative Technology, Chittagong. Always looking for ways to build and maintain scalable infrastructure.
 
@@ -43,15 +43,6 @@ Android       : AOSP · Custom ROM Building · Kernel Compilation · Device Tree
 | [**Client Request Automation**](https://github.com/Xeesan) | Google Forms → backend scripts → Telegram notifications workflow |
 | [**AOSPA-alioth**](https://github.com/Xeesan) | Paranoid Android custom ROM for POCO F1/F3/F5 — 33+ maintained repos |
 
-### Experience
-
-**Embedded Network Engineer** — Mux Technologies Ltd *(Current)*
-- Network infrastructure management, remote support, health monitoring
-- Switch configuration, security policy implementation, Linux server admin
-
-**Intern — Network Engineering** — New Vision IT
-- Hands-on Cisco & MikroTik training, configured routers/switches/firewalls
-- VLANs, BGP, OSPF, PPPoE, queue management, wireless setup
 
 ---
 
