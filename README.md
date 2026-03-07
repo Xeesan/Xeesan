@@ -22,7 +22,7 @@ Currently pursuing my **BSc in Computer Science & Engineering** at University of
 
 ```
 Networking    : Cisco (CCNA) · MikroTik RouterOS (MTCNA) · BGP · OSPF · VLANs · PPPoE
-Systems       : Linux Server Administration · Docker · DevOps
+Systems       : Linux Server Administration · Docker · ANSIBLE · DevOps
 Security      : CompTIA A+ · Firewall Configuration · Network Security Policies
 Development   : HTML · CSS · JavaScript · Python · Shell Scripting
 Android       : AOSP · Custom ROM Building · Kernel Compilation · Device Trees
