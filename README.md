@@ -1,18 +1,60 @@
-<h1 align="center">Hi 👋, I'm Zia Uddin Zisan</h1>
-<h3 align="center">A passionate learner from Bangladesh</h3>
+<h1 align="center">Hey, I'm Zia Uddin Zisan 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xeesan&label=Profile%20views&color=0e75b6&style=flat" alt="xeesan" /> </p>
+<p align="center">
+  <strong>System Engineer · Network Specialist · Ex-Android Custom ROM Maintainer</strong><br/>
+  Chattogram, Bangladesh
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xeesan" alt="xeesan" /></a> </p>
+<p align="center">
+  <a href="https://xisan.tech"><img src="https://img.shields.io/badge/Portfolio-xisan.tech-22d3ee?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://github.com/Xeesan"><img src="https://img.shields.io/badge/GitHub-Xeesan-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
 
-- 📫 How to reach me **https://t.me/xisan**
+---
 
-- ⚡ Fun fact about me: **A forever newbie**
+### About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I'm an Embedded Network Engineer at **Mux Technologies Ltd**, where I manage network infrastructure, handle remote support, and keep things running smoothly. On the side, I maintain a forked build of **Paranoid Android (AOSPA)** — cherry-picking commits, merging upstream, and building custom ROMs for POCO devices across 33+ repositories.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ziauddinzisan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ziauddinzisan" /></a></p><br><br>
+Currently pursuing my **BSc in Computer Science & Engineering** at University of Creative Technology, Chittagong. Always looking for ways to build and maintain scalable infrastructure.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xeesan&" alt="Xeesan" /></p>
+### What I Work With
+
+```
+Networking    : Cisco (CCNA) · MikroTik RouterOS (MTCNA) · BGP · OSPF · VLANs · PPPoE
+Systems       : Linux Server Administration · Docker · DevOps
+Security      : CompTIA A+ · Firewall Configuration · Network Security Policies
+Development   : HTML · CSS · JavaScript · Python · Shell Scripting
+Android       : AOSP · Custom ROM Building · Kernel Compilation · Device Trees
+```
+
+### Certifications
+
+- 🏅 **Cisco CCNA** — Routing & Switching
+- 🏅 **MikroTik MTCNA** — RouterOS Certified
+- 🏅 **CompTIA A+** — IT Fundamentals
+
+### Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Goodbye Dopamine**](https://github.com/Xeesan/goodbye-dopamine) | Student productivity PWA — planner, focus timer, wellness tracker, CGPA calculator |
+| [**Smokeping Docker Stack**](https://github.com/Xeesan) | Containerized network latency monitoring with Telegram alerts & Cloudflare Tunnel |
+| [**Client Request Automation**](https://github.com/Xeesan) | Google Forms → backend scripts → Telegram notifications workflow |
+| [**AOSPA-alioth**](https://github.com/Xeesan) | Paranoid Android custom ROM for POCO F1/F3/F5 — 33+ maintained repos |
+
+### Experience
+
+**Embedded Network Engineer** — Mux Technologies Ltd *(Current)*
+- Network infrastructure management, remote support, health monitoring
+- Switch configuration, security policy implementation, Linux server admin
+
+**Intern — Network Engineering** — New Vision IT
+- Hands-on Cisco & MikroTik training, configured routers/switches/firewalls
+- VLANs, BGP, OSPF, PPPoE, queue management, wireless setup
+
+---
+
+<p align="center">
+  <a href="https://xisan.tech">xisan.tech</a> · Built with ☕ and late nights
+</p>
