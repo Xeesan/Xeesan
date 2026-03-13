@@ -14,7 +14,7 @@
 
 ### About Me
 
-As an Embedded Network Engineer, where I manage network infrastructure, handle remote support, and keep things running smoothly. On the side, I maintain a forked build of **Paranoid Android (AOSPA)** — cherry-picking commits, merging upstream, and building custom ROMs for POCO devices across 33+ repositories.
+Working as an Embedded Network Engineer, managing network infrastructure, providing remote support, and ensuring stable operations. Alongside this, I maintain a fork of Paranoid Android (AOSPA)—cherry-picking commits, syncing with upstream, and building custom ROMs for POCO devices across 33+ repositories.
 
 Currently pursuing my **BSc in Computer Science & Engineering** at University of Creative Technology, Chittagong. Always looking for ways to build and maintain scalable infrastructure.
 
